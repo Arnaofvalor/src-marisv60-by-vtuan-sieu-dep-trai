@@ -7,7 +7,7 @@ mirai.cantOnload=Không thể khởi chạy setup của module %1, lỗi: %1
 mirai.finishLoadModule=Đã tải thành công %1 module commands và %2 module events
 mirai.foundPathAppstate=Đã tìm thấy file appstate
 mirai.notFoundPathAppstate=Không tìm thấy file appstate vui lòng kiểm tra lại
-mirai.userBanned=Bạn đã bị ban khỏi Bot MARIS vào lúc %1 với lý do: %2.\nVui lòng liên hệ ADMIN qua:\n📌FB: Https://www.facebook.com/tddzs1tg06. để biết thêm chi tiết!
+mirai.userBanned=Bạn đã bị ban khỏi Bot MARIS vào lúc %1 với lý do: %2.\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/m.duck.1909. để biết thêm chi tiết!
 mirai.handleListenError=handleListener đã xảy ra một số lỗi không mong muốn, lỗi: %1
 
 
@@ -35,11 +35,11 @@ users.needObject=Phải là một Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=Hiện tại bạn đang bị cấm sử dụng bot!\nLiên hệ FB: https://www.facebook.com/tddzs1tg06 để biết thêm chi tiết.\n%1\n%2
-handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/tddzs1tg06.\nĐể có thể xin và sử dụng lại bot.\n%1\n%2
+handleCommand.userBanned=Hiện tại bạn đang bị cấm sử dụng bot!\nLiên hệ FB: https://www.facebook.com/m.duck.1909 để biết thêm chi tiết.\n%1\n%2
+handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/m.duck.1909.\nĐể có thể xin và sử dụng lại bot.\n%1\n%2
 handleCommand.commandNotExist= Có phải bạn đang muốn sử dụng lệnh: "%1" hay không?
-handleCommand.commandThreadBanned=Nhóm bạn đã bị cấm sử dụng lệnh "%1"\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/tddzs1tg06
-handleCommand.commandUserBanned=Bạn đã bị cấm sử dụng lệnh "%1"\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/tddzs1tg06
+handleCommand.commandThreadBanned=Nhóm bạn đã bị cấm sử dụng lệnh "%1"\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/m.duck.1909
+handleCommand.commandUserBanned=Bạn đã bị cấm sử dụng lệnh "%1"\nVui lòng liên hệ ADMIN qua:\n📌FB: https://www.facebook.com/m.duck.1909
 handleCommand.cantGetInfoThread=Không thể lấy thông tin của nhóm, lỗi: %1
 handleCommand.cantSetMessageReaction=Đã có lỗi xảy ra không mong muốn tại setMessageReaction, lỗi: %1
 handleCommand.notFoundLanguage=Không tìm thấy ngôn ngữ hỗ trợ cho module %1s
